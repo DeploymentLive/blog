@@ -1,1 +1,1 @@
-https://deploymentlive.github.io/blog/
+https://deploymentlive.github.io/DeploymentLiveBlog/
