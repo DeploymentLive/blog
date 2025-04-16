@@ -7,7 +7,7 @@ Misc ramblings on coding for Windows Deployment and System Mangement
 * Home: [Deployment Live LLC](https://deploymentlive.com) 
 * Contact: [info@deploymentlive.com](mailto:info@deploymentlive.com)
 
-##Blogs:
+## Blogs:
 
 <ul>
   {% for post in site.posts %}
